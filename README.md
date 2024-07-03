@@ -24,7 +24,7 @@ Images of the design are provided in a seperate folder with a markdown documenta
 
   Multiplexer is pivotal circuit for signal selection and routing.
   In this design, Inverting and Restoring Multiplexers are used. 
-  Three 2x1 MUX are used in a two-stage configuration to create 4x1 MUX and so two 2x1 MUX are connected in series. 
+  Three 2x1 MUX are used in a two-stage configuration to create 4x1 MUX. 
   So, two 2x1 MUX are connected in series, which eliminates the inverting effect and doesn’t require additional inverters. 
   Use of inverting and restoring MUX provides restored signal which ultimately reduce the noise margins.
 
