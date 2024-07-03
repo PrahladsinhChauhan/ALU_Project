@@ -1,7 +1,8 @@
 # ALU_Project
 
 Design of basic ALU from transistor-level circuit using Cadence Virtuoso.
-
+A zip file (Project.zip) of the project library utilized by the software is provided, containing all the original designs and rule checks performed on them.
+Images of the design are provided in a seperate folder with a markdown documentation to act as a guide for refering various aspects of the design.
 
 
 ## Design Decisions
