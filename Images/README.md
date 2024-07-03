@@ -1,6 +1,8 @@
-The Subfolder contains 5 folders and 1 file
-The file alu_sch.png depicts the design of the top-level module 
-ALU contains various submodules which are represented by the folders
+The Subfolder contains 5 folders and 1 file.
+
+The file alu_sch.png depicts the design of the top-level module.
+
+ALU contains various submodules which are represented by the folders.
 
 1. Adder
    
